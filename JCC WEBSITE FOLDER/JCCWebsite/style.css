@@ -1,0 +1,19 @@
+body {background-color: #FDE7EF;}
+p {font-family: arial; font-size: 24px; text-align: justify;}
+h1 {color: rgb(153, 102, 51); font-size: 15px;}
+h4 {text-align: center;}
+div {
+  padding: 10px 25px;
+}
+
+.border {border: 25px solid white;}
+.nav {font-size: 30px;}
+.navlist {padding:16px;}
+.newspaper1 {
+  column-fill: auto;
+}
+
+.navbar-nav > li{
+  margin-left:100x;
+  margin-right:100px;
+}
